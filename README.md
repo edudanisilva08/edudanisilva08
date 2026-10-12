@@ -1,30 +1,26 @@
+```html
 <!--
-  PERFIL: edudanisilva08
-  TEMA: UNDERTALE - ASRIEL DREEMURR
-  Todas as mensagens visíveis estão em português.
+  PERFIL GITHUB: edudanisilva08
+  TEMA: UNDERTALE — BATALHA CONTRA ASRIEL DREEMURR
+  PERSONALIZAÇÃO: PIXEL ART, CORES CÓSMICAS E SANS INTERATIVO
 -->
 
-<!-- SANS CLICÁVEL: clique nele para encontrar um segredo -->
-<p align="right">
-  <a href="#sala-secreta-do-sans" title="Clique no Sans para descobrir um segredo">
-    <img
-      src="https://undertale.wiki/w/Special:Redirect/file/Sans_battle_idle.gif"
-      width="95"
-      alt="Sans em pixel art — clique para descobrir um segredo"
-    />
-  </a>
-</p>
+<!-- ================================================== -->
+<!-- 01. BANNER COLORIDO                                -->
+<!-- ================================================== -->
 
-<!-- BANNER COLORIDO -->
 <p align="center">
   <img
     width="100%"
     src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:00F5D4,20:00BBF9,40:9B5DE5,60:F15BB5,80:FEE440,100:00F5D4&text=EDUDANISILVA08&fontColor=FFFFFF&fontSize=34&fontAlignY=38&desc=BATALHA%20CONTRA%20ASRIEL%20%7C%20DETERMINACAO&descSize=12&descAlignY=58&animation=twinkling"
-    alt="Banner colorido do perfil de edudanisilva08"
+    alt="Banner colorido do perfil edudanisilva08"
   />
 </p>
 
-<!-- TEXTO ANIMADO -->
+<!-- ================================================== -->
+<!-- 02. TERMINAL ANIMADO                               -->
+<!-- ================================================== -->
+
 <p align="center">
   <img
     src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=10&duration=2500&pause=900&color=00F5D4&center=true&vCenter=true&width=700&height=65&lines=SISTEMA+ONLINE...;BEM-VINDO+AO+SUBTERRANEO;SUA+DETERMINACAO+E+FORTE;NOSSA+BATALHA+AINDA+NAO+ACABOU"
@@ -35,14 +31,48 @@
 <p align="center">
   <img src="https://img.shields.io/badge/ALMA-DETERMINACAO-F15BB5?style=for-the-badge" alt="Alma da determinação"/>
   <img src="https://img.shields.io/badge/SISTEMA-ONLINE-00BBF9?style=for-the-badge" alt="Sistema online"/>
-  <img src="https://img.shields.io/badge/MUNDO-PIXEL_ART-9B5DE5?style=for-the-badge" alt="Mundo em pixel art"/>
+  <img src="https://img.shields.io/badge/MUNDO-PIXEL_ART-9B5DE5?style=for-the-badge" alt="Mundo pixel art"/>
 </p>
+
+<!-- ================================================== -->
+<!-- 03. BOAS-VINDAS                                    -->
+<!-- ================================================== -->
 
 <p align="center">
   <b>✦ ✧ ★ BEM-VINDO AO MEU UNIVERSO ★ ✧ ✦</b>
 </p>
 
+<!-- SANS GIRANDO: CLIQUE NELE PARA DESCOBRIR UM SEGREDO -->
+
+<p align="center">
+  <a
+    href="#sala-secreta-do-sans"
+    title="Clique no Sans para descobrir um segredo"
+  >
+    <img
+      src="https://media.tenor.com/IWhejf4jmhsAAAAj/spinning-spin.gif"
+      width="125"
+      alt="Sans girando em pixel art"
+    />
+  </a>
+</p>
+
+<p align="center">
+  <sub>
+    <a href="https://tenor.com/view/spinning-spin-rotate-rotating-twirl-gif-27369778">
+      Animação do Sans via Tenor
+    </a>
+    · Clique nele para encontrar um segredo!
+  </sub>
+</p>
+
 ---
+
+<!-- ================================================== -->
+<!-- 04. PERFIL DO JOGADOR                              -->
+<!-- ================================================== -->
+
+<a id="perfil"></a>
 
 ## 👤 01 — Perfil do jogador
 
@@ -61,38 +91,64 @@
 ╚══════════════════════════════════╝
 ```
 
-<p align="center">
-  <img
-    src="https://undertale.wiki/w/Special:Redirect/file/Asriel_Dreemurr_battle_God_of_Hyperdeath.png"
-    width="145"
-    alt="Asriel Dreemurr, o Deus da Hiper Morte"
-  />
-</p>
-
 ### ✨ Sobre mim
 
 - 💻 Estou aprendendo programação e criando projetos.
 - 🎮 Inspirado por Undertale, jogos independentes e pixel art.
-- 🌈 Gosto de interfaces coloridas, estética retrô e programação criativa.
+- 🌈 Gosto de interfaces coloridas e programação criativa.
 - ⚡ Estou sempre aprendendo coisas novas.
 - ❤️ Minha principal habilidade é a determinação.
 
+<!-- ASRIEL DREEMURR: GIF DO TENOR -->
+
+<p align="center">
+  <img
+    src="https://media.tenor.com/n-cKHNIfOhQAAAAj/shrug-shrugs.gif"
+    width="145"
+    alt="Asriel Dreemurr em animação pixel art"
+  />
+</p>
+
+<p align="center">
+  <sub>
+    <a href="https://tenor.com/view/shrug-shrugs-shaking-head-smug-smirk-gif-26072511">
+      Animação do Asriel via Tenor
+    </a>
+  </sub>
+</p>
+
 ---
+
+<!-- ================================================== -->
+<!-- 05. MENU DE BATALHA                                -->
+<!-- ================================================== -->
 
 ## ⚔️ 02 — Menu de batalha
 
 <p align="center">
   <a href="#arsenal">
-    <img src="https://img.shields.io/badge/⚔_LUTAR-F15BB5?style=for-the-badge" alt="Lutar — habilidades"/>
+    <img
+      src="https://img.shields.io/badge/⚔_LUTAR-F15BB5?style=for-the-badge"
+      alt="Lutar: habilidades"
+    />
   </a>
-  <a href="#sobre-mim">
-    <img src="https://img.shields.io/badge/♡_AGIR-00BBF9?style=for-the-badge" alt="Agir — sobre mim"/>
+  <a href="#perfil">
+    <img
+      src="https://img.shields.io/badge/♡_AGIR-00BBF9?style=for-the-badge"
+      alt="Agir: perfil"
+    />
   </a>
   <a href="#inventario">
-    <img src="https://img.shields.io/badge/▣_ITEM-FEE440?style=for-the-badge" alt="Item — inventário"/>
+    <img
+      src="https://img.shields.io/badge/▣_ITEM-FEE440?style=for-the-badge"
+      alt="Item: inventário"
+    />
   </a>
   <a href="#contato">
-    <img src="https://img.shields.io/badge/♥_POUPAR-00F5D4?style=for-the-badge" alt="Poupar — contato"/>
+    <img
+      src="https://img.shields.io/badge/♥_POUPAR-00F5D4?style=for-the-badge"
+      alt="Poupar: contato"
+    />
   </a>
 </p>
 
@@ -102,12 +158,18 @@
 
 ---
 
+<!-- ================================================== -->
+<!-- 06. ARSENAL                                        -->
+<!-- ================================================== -->
+
+<a id="arsenal"></a>
+
 ## 💻 03 — Arsenal de programação
 
 <p align="center">
   <img
     src="https://skillicons.dev/icons?i=python,js,ts,html,css,react,nodejs,git,github,vscode&theme=dark"
-    alt="Ícones de linguagens e ferramentas de programação"
+    alt="Ícones de linguagens e ferramentas"
   />
 </p>
 
@@ -128,18 +190,22 @@
 
 ---
 
+<!-- ================================================== -->
+<!-- 07. ESTATÍSTICAS                                   -->
+<!-- ================================================== -->
+
 ## 📊 04 — Estatísticas do jogador
 
 <p align="center">
   <img
     height="175"
     src="https://github-readme-stats.vercel.app/api?username=edudanisilva08&show_icons=true&hide_border=true&bg_color=0B0718&title_color=00F5D4&icon_color=F15BB5&text_color=FFFFFF&ring_color=9B5DE5"
-    alt="Estatísticas do GitHub de edudanisilva08"
+    alt="Estatísticas do GitHub"
   />
   <img
     height="175"
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=edudanisilva08&layout=compact&hide_border=true&bg_color=0B0718&title_color=FEE440&text_color=FFFFFF"
-    alt="Linguagens de programação mais utilizadas"
+    alt="Linguagens mais utilizadas"
   />
 </p>
 
@@ -147,7 +213,7 @@
   <img
     width="95%"
     src="https://streak-stats.demolab.com?user=edudanisilva08&theme=dark&hide_border=true&background=0B0718&ring=00F5D4&fire=F15BB5&currStreakLabel=FEE440&sideLabels=9B5DE5&dates=AAAAAA"
-    alt="Sequência de dias de contribuição no GitHub"
+    alt="Sequência de contribuições no GitHub"
   />
 </p>
 
@@ -160,6 +226,12 @@
 </p>
 
 ---
+
+<!-- ================================================== -->
+<!-- 08. INVENTÁRIO                                     -->
+<!-- ================================================== -->
+
+<a id="inventario"></a>
 
 ## 🎒 05 — Inventário
 
@@ -182,6 +254,12 @@
 
 ---
 
+<!-- ================================================== -->
+<!-- 09. SALA SECRETA DO SANS                           -->
+<!-- ================================================== -->
+
+<a id="sala-secreta-do-sans"></a>
+
 ## 💀 06 — Sala secreta do Sans
 
 <p align="center">
@@ -189,13 +267,11 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/edudanisilva08" title="Sans manda lembranças">
-    <img
-      src="https://undertale.wiki/w/Special:Redirect/file/Sans_battle_dancing.gif"
-      width="145"
-      alt="Sans dançando em pixel art"
-    />
-  </a>
+  <img
+    src="https://undertale.wiki/w/Special:Redirect/file/Sans_battle_dancing.gif"
+    width="145"
+    alt="Sans dançando em pixel art"
+  />
 </p>
 
 <p align="center">
@@ -221,7 +297,17 @@
   />
 </p>
 
+<p align="center">
+  <a href="#top">⬆ VOLTAR AO TOPO</a>
+</p>
+
 ---
+
+<!-- ================================================== -->
+<!-- 10. CONTATO                                        -->
+<!-- ================================================== -->
+
+<a id="contato"></a>
 
 ## 📬 07 — Contato
 
@@ -229,7 +315,7 @@
   <a href="https://github.com/edudanisilva08">
     <img
       src="https://img.shields.io/badge/GITHUB-edudanisilva08-0B0718?style=for-the-badge&logo=github&logoColor=00F5D4"
-      alt="Visite meu GitHub"
+      alt="Meu perfil no GitHub"
     />
   </a>
 </p>
@@ -243,6 +329,7 @@
   <img
     width="100%"
     src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=0:00F5D4,25:00BBF9,50:9B5DE5,75:F15BB5,100:FEE440"
-    alt="Rodapé colorido inspirado no universo de Undertale"
+    alt="Rodapé colorido inspirado em Undertale"
   />
 </p>
+```
