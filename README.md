@@ -1,4 +1,3 @@
-```html
 <!--
   PERFIL GITHUB: edudanisilva08
   TEMA: UNDERTALE — BATALHA CONTRA ASRIEL DREEMURR
@@ -89,7 +88,6 @@
 ║  MODO      : UNIVERSO PIXEL      ║
 ║  ESTADO    : NUNCA DESISTA       ║
 ╚══════════════════════════════════╝
-```
 
 ### ✨ Sobre mim
 
