@@ -41,27 +41,21 @@
   <b>✦ ✧ ★ BEM-VINDO AO MEU UNIVERSO ★ ✧ ✦</b>
 </p>
 
-<!-- SANS GIRANDO: CLIQUE NELE PARA DESCOBRIR UM SEGREDO -->
+<!-- SANS GIRANDO: GIF ANIMADO AUTOMATICAMENTE, SEM CLIQUE -->
 
 <p align="center">
-  <a
-    href="#sala-secreta-do-sans"
-    title="Clique no Sans para descobrir um segredo"
-  >
-    <img
-      src="https://media.tenor.com/IWhejf4jmhsAAAAj/spinning-spin.gif"
-      width="125"
-      alt="Sans girando em pixel art"
-    />
-  </a>
+  <img
+    src="https://media.tenor.com/IWhejf4jmhsAAAAj/spinning-spin.gif"
+    width="125"
+    alt="Sans girando em pixel art"
+  />
 </p>
 
 <p align="center">
   <sub>
     <a href="https://tenor.com/view/spinning-spin-rotate-rotating-twirl-gif-27369778">
-      Animação do Sans via Tenor
+      Fonte da animação do Sans: Tenor
     </a>
-    · Clique nele para encontrar um segredo!
   </sub>
 </p>
 
@@ -96,7 +90,7 @@
 - ⚡ Estou sempre aprendendo coisas novas.
 - ❤️ Minha principal habilidade é a determinação.
 
-<!-- ASRIEL DREEMURR: GIF DO TENOR -->
+<!-- ASRIEL DREEMURR: GIF ANIMADO AUTOMATICAMENTE -->
 
 <p align="center">
   <img
@@ -260,7 +254,7 @@
 ## 💀 06 — Sala secreta do Sans
 
 <p align="center">
-  <i>Então você clicou no esqueleto engraçado?</i>
+  <i>Você encontrou a sala secreta do esqueleto engraçado!</i>
 </p>
 
 <p align="center">
