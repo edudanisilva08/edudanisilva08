@@ -76,7 +76,7 @@
 ## 👤 01 — Perfil do jogador
 
 > *"Apesar de tudo, ainda é você."*
-
+```
 ╔══════════════════════════════════╗
 ║        HUMANO DETECTADO          ║
 ╠══════════════════════════════════╣
@@ -87,7 +87,7 @@
 ║  MODO      : UNIVERSO PIXEL      ║
 ║  ESTADO    : NUNCA DESISTA       ║
 ╚══════════════════════════════════╝
-
+```
 ### ✨ Sobre mim
 
 - 💻 Estou aprendendo programação e criando projetos.
