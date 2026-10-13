@@ -38,7 +38,7 @@
 <!-- ================================================== -->
 
 <p align="center">
-  <b>✦ ✧ ★ BEM-VINDO AO MEU UNIVERSO ★ ✧ ✦</b>
+  <b>✦ ✧ ★ BEM-VINDO AO MEU GITHUB ★ ✧ ✦</b>
 </p>
 
 <!-- SANS GIRANDO: GIF ANIMADO AUTOMATICAMENTE, SEM CLIQUE -->
@@ -84,11 +84,11 @@
 ```
 ### ✨ Sobre mim
 
-- 💻 Estou aprendendo programação e criando projetos.
-- 🎮 Inspirado por Undertale, jogos independentes e pixel art.
-- 🌈 Gosto de interfaces coloridas e programação criativa.
-- ⚡ Estou sempre aprendendo coisas novas.
-- ❤️ Minha principal habilidade é a determinação.
+- 💻 Estudante de Desenvolvimento de Sistemas.
+- 🎮 Grande apreciador de jogos e tecnologia.
+- 🎸 Gosto de praticar diferentes hobbies.
+- ⚡ Sempre procurando por novas oportunidades.
+- ❤️ Paixão pelo que faço, sempre determinado.
 
 <!-- ASRIEL DREEMURR: GIF ANIMADO AUTOMATICAMENTE -->
 
@@ -254,7 +254,7 @@
 ## 💀 06 — Sala secreta do Sans
 
 <p align="center">
-  <i>Você encontrou a sala secreta do esqueleto engraçado!</i>
+  <i>Você encontrou a sala secreta do esqueleto comediante!</i>
 </p>
 
 <p align="center">
@@ -272,13 +272,9 @@
 </p>
 
 ```text
-     .------.
-    /  o  o  \
-   |     ^    |    VAI TER UMA
-   |  \___/   |    PÉSSIMA HORA?
-    \________/     CALMA, É SÓ UM BUG.
-       /||\
-      /_||_\
+  _________________________________
+  ==== TEM ALGUM BUG POR AQUI? ====
+  _________________________________
 ```
 
 <p align="center">
@@ -313,7 +309,7 @@
 
 <p align="center">
   <b>✦ CONTINUE DETERMINADO ✦</b><br/>
-  <sub>Obrigado por visitar meu pequeno canto do Subterrâneo.</sub>
+  <sub>Obrigado por visitar meu pequeno espaço.</sub>
 </p>
 
 <p align="center">
