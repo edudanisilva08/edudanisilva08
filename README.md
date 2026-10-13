@@ -11,7 +11,7 @@
 <p align="center">
   <img
     width="100%"
-    src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:00F5D4,20:00BBF9,40:9B5DE5,80:FEE440,100:00F5D4&text=EDUDANISILVA08&fontColor=FFFFFF&fontSize=34&fontAlignY=38&desc=BATALHA%20CONTRA%20ASRIEL%20%7C%20DETERMINACAO&descSize=12&descAlignY=58&animation=twinkling"
+    src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:00F5D4,20:00BBF9,40:9B5DE5,60:F15BB5,80:FEE440,100:00F5D4&text=EDUDANISILVA08&fontColor=FFFFFF&fontSize=34&fontAlignY=38&desc=BATALHA%20CONTRA%20ASRIEL%20%7C%20DETERMINACAO&descSize=12&descAlignY=58&animation=twinkling"
     alt="Banner colorido do perfil edudanisilva08"
   />
 </p>
